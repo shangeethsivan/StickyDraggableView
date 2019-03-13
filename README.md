@@ -1,6 +1,6 @@
 # StickyDraggableView
 
-[![Preview the app](https://img.shields.io/badge/Preview-Appetize.io-orange.svg)](https://appetize.io/app/tx8h05p6bhec5gywfay5ab6wqm)
+[![Preview the app](https://img.shields.io/badge/Preview-Appetize.io-orange.svg)](https://appetize.io/app/bp0hpuq61x1t7hmfjwktarjdnr)
 
 ## Created a view which looks alike Google Duo/WhatsApp VideoCall thumbnail which draggable and sticks to corners on release
 
