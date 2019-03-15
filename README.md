@@ -8,6 +8,8 @@
 
 ## Dependency
 
+Available in [Maven](https://search.maven.org/search?q=stickydragview)
+
 Add the library to your module `build.gradle`
 ```gradle
 dependencies {
