@@ -53,7 +53,7 @@ dependencies {
 ```
 That's it!
 
-##Sample
+## Sample
 
 <img src="https://raw.githubusercontent.com/shivthepro/StickyDraggableView/master/StickyDraggable.gif" alt="" height="400" />
 
