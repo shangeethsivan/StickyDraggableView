@@ -4,8 +4,6 @@
 
 ## Created a view which looks alike Google Duo/WhatsApp VideoCall thumbnail which is draggable and sticks to corners on release
 
-<img src="https://raw.githubusercontent.com/shivthepro/StickyDraggableView/master/StickyDraggable.gif" alt="" height="400" />
-
 ## Dependency
 
 Available in [Maven](https://search.maven.org/search?q=stickydragview)
@@ -54,3 +52,8 @@ dependencies {
 </co.shrappz.stickydrag.StickyDragView>
 ```
 That's it!
+
+##Sample
+
+<img src="https://raw.githubusercontent.com/shivthepro/StickyDraggableView/master/StickyDraggable.gif" alt="" height="400" />
+
