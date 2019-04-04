@@ -1,1 +1,1 @@
-include ':app', ':stickydragview'
+include ':sample', ':stickydragview'
